@@ -1,0 +1,6 @@
+{
+  "name": "Taskora – Task Management System",
+  "description": "Full-stack MERN task management application with JWT authentication, Kanban board, deadline alerts, and daily progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
